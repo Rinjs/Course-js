@@ -1,3 +1,4 @@
+<h1>Arrays<h1>
 # First task completed <br>
 # Second task completed <br>
 # Third task completed <br>
@@ -15,3 +16,5 @@
 # Fifteen task completed <br>
 # Additional task  number 1 completed <br>
 # Additional task  number 2 completed
+<hr>
+<h1>Objects<h1>
