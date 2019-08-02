@@ -28,3 +28,9 @@ Eighth task completed <br>
 Nineth task completed <br>
 Tenth task completed <br>
 Eleventh task completed <br>
+<h2>Additional tasks<h2>
+Last Stone Weight .....<br>
+Fifth task = Remove Duplicates from Sorted List <br>
+https://leetcode.com/submissions/detail/243518324/ P.S doesn't open<br>
+Intersection of Two Arrays completed <br>
+Reverse Linked List copmleted <br>
